@@ -90,4 +90,4 @@ do
 > col=`head -n 1 $P | tr -d ' ' | tr -d '\n' | wc -c`
 > echo $P $fil $col
 > done
-
+# final 
