@@ -9,3 +9,5 @@ echo "Numero de filas:" ; wc -l n10.txt ; echo "Numero de columnas:" ; head -n 1
 # comando de columnas y filas
 colums  ( plantas)
 Numero de columnas en n10.txt = 20
+columnas (Polinizadores)
+Numero de filas en n10.txt = 14
