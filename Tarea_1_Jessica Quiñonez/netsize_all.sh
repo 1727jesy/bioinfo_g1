@@ -10,4 +10,6 @@ ls
 cd data
 ls
 cd Saavedra2013
-ls
+colocamos
+P2=../Saavedra2013/*.txt
+seleccionar varibles .txt
