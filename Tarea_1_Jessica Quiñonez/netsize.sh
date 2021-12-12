@@ -11,6 +11,8 @@ cd data
 ls enlista los directorios y archivos
 Llegamos al directorio Saavedra2013
 CSB-master/unix/data/Saavedra2013
+Parte 1
+Tomemos uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). 
 - Seleccionamos  n10.txt 
 - Ingresamos el comando
 echo "Numero de filas:" ; wc -l n10.txt ; echo "Numero de columnas:" ; head -n 1 n10.txt | tr -d ' ' | tr -d '\n' | wc -c
