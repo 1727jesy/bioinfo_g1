@@ -79,3 +79,7 @@ for P in $P2
 ../Saavedra2013/n8.txt
 ../Saavedra2013/n9.txt
 for bucle que nos permite retir una tarea con ligeras variaciones
+do
+ done 
+ se aplica este comando repetidamente par alos archivos
+ 
