@@ -82,4 +82,12 @@ for bucle que nos permite retir una tarea con ligeras variaciones
 do
  done 
  se aplica este comando repetidamente par alos archivos
- 
+ Penultima parte 
+ Comando Utilizado
+ $ for P in $P2
+> do
+> fil=`cat $P| wc -l`
+> col=`head -n 1 $P | tr -d ' ' | tr -d '\n' | wc -c`
+> echo $P $fil $col
+> done
+
