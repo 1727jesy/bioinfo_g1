@@ -1,4 +1,4 @@
-
+#  Respuesta  parte 2
 $ for P in $P2
 > do
 > fil=`cat $P| wc -l`
