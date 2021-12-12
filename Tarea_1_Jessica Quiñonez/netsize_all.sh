@@ -10,11 +10,12 @@ ls
 cd data
 ls
 cd Saavedra2013
-colocamos
+#colocamos
+
 P2=../Saavedra2013/*.txt
 seleccionar varibles .txt
 
-luego
+#luego agrgamos los siguientes comandos
 for P in $P2
 > do
 > echo $P
