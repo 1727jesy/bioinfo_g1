@@ -5,3 +5,4 @@ Numero de filas:
 Numero de columnas:
 20
 echo imprime  las palabras
+wc -l  cuentas las filas
