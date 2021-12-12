@@ -1,10 +1,16 @@
 Ejercicio  1.10.3 
 Proceso
-el directorio
+el directorio CSB-master/unix/data/Saavedra2013 al cual debemos llegar
 cd OneDrive
-
-CSB/unix/data/Saavedra2013
--ls enlista los directorios y archivos
+ls enlista los directorios y archivivos
+cd CSB-master
+ls enlista los directorios y archivos
+cd unix
+ls enlista los directorios y archivos
+cd data
+ls enlista los directorios y archivos
+Llegamos al directorio Saavedra2013
+CSB-master/unix/data/Saavedra2013
 - Seleccionamos  n10.txt 
 - Ingresamos el comando
 echo "Numero de filas:" ; wc -l n10.txt ; echo "Numero de columnas:" ; head -n 1 n10.txt | tr -d ' ' | tr -d '\n' | wc -c
