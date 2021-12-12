@@ -1,1 +1,6 @@
 Respueta de a parte 1
+echo "Numero de filas:" ; wc -l n10.txt ; echo "Numero de columnas:" ; head -n 1 n10.txt | tr -d ' ' | tr -d '\n' | wc -c
+Numero de filas:
+14 n10.txt
+Numero de columnas:
+20
