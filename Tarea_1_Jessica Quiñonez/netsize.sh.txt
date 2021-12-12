@@ -4,3 +4,4 @@ Numero de filas:
 14 n10.txt
 Numero de columnas:
 20
+echo imprime  las palabras
