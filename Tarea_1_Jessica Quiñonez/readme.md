@@ -1,5 +1,5 @@
-#Tarea Nª 1
-#Bioinformatica
+# Tarea Nª 1
+# Bioinformatica
 Jessica lisbeth Quiñonez Pachacama
 # EJERCICIO 1.10.3  REDES PLANTA-POLINIZADOR
 
