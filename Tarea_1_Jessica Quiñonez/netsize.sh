@@ -21,3 +21,4 @@ colums  ( plantas)
 Numero de columnas en n10.txt = 20
 columnas (Polinizadores)
 Numero de filas en n10.txt = 14
+# FINAL PARTE 1
