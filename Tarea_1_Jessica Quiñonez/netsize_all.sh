@@ -10,12 +10,14 @@ ls
 cd data
 ls
 cd Saavedra2013
-#colocamos
+Descripcion del ejercicio parte 2
+Escriba un script que imprima el número de filas y columnas para cada red:
+#colocamos los comandos
 
 P2=../Saavedra2013/*.txt
 seleccionar varibles .txt
 
-#luego agrgamos los siguientes comandos
+#luego agregamos los siguientes comandos
 for P in $P2
 > do
 > echo $P
