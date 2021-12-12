@@ -7,4 +7,4 @@ Numero de columnas:
 echo imprime  las palabras
 wc -l  cuentas las filas
 head -n 1 n10.txt | tr -d ' ' | tr -d '\n' | wc -c   columnas
-
+# fin parte 1 respuesta
